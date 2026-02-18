@@ -1,0 +1,369 @@
+.need-help-container1 {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-color: var(--dl-color-gray-black);
+}
+ 
+.need-help-thq-hero-elm {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  position: relative;
+  align-items: center;
+  padding-left: var(--dl-layout-space-fiveunits);
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.need-help-text10 {
+  display: inline-block;
+}
+ 
+.need-help-text11 {
+  display: inline-block;
+}
+ 
+.need-help-text12 {
+  display: inline-block;
+}
+ 
+.need-help-text13 {
+  display: inline-block;
+}
+ 
+.need-help-text14 {
+  display: inline-block;
+}
+ 
+.need-help-text15 {
+  display: inline-block;
+}
+ 
+.need-help-text16 {
+  display: inline-block;
+}
+ 
+.need-help-text17 {
+  display: inline-block;
+}
+ 
+.need-help-text18 {
+  display: inline-block;
+}
+ 
+.need-help-text19 {
+  display: inline-block;
+}
+ 
+.need-help-text20 {
+  display: inline-block;
+}
+ 
+.need-help-video {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  filter: opacity(0.6);
+  height: 100%;
+  position: absolute;
+  object-fit: cover;
+}
+ 
+.need-help-thq-hero-content-elm {
+  gap: var(--dl-layout-space-fiveunits);
+  flex: 1;
+  width: 100%;
+  display: flex;
+  z-index: 100;
+  max-width: var(--dl-layout-size-maxwidth);
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.need-help-thq-header-container-elm {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.need-help-thq-header-elm {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.need-help-thq-heading-elm {
+  color: rgb(255, 255, 255);
+  font-size: 100px;
+  max-width: 790px;
+  font-style: normal;
+  font-weight: 500;
+}
+ 
+.need-help-thq-caption-elm {
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  max-width: 600px;
+  line-height: 36px;
+}
+ 
+.need-help-navlink {
+  text-decoration: none;
+}
+ 
+.need-help-thq-body-elm {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  padding-top: var(--dl-layout-space-sixunits);
+  flex-direction: column;
+  padding-bottom: var(--dl-layout-space-sixunits);
+}
+ 
+.need-help-container2 {
+  width: 100%;
+}
+ 
+.need-help-container3 {
+  display: contents;
+}
+ 
+.need-help-text26 {
+  color: rgb(255, 255, 255);
+  width: 100%;
+  display: none;
+  font-size: 50px;
+  max-width: var(--dl-layout-size-maxwidth);
+}
+ 
+.need-help-text27 {
+  font-weight: 700;
+}
+ 
+.need-help-text29 {
+  font-style: normal;
+  font-weight: 300;
+}
+ 
+.need-help-text33 {
+  font-weight: 700;
+}
+ 
+.need-help-text35 {
+  font-style: normal;
+  font-weight: 300;
+}
+ 
+.need-help-text36 {
+  font-style: normal;
+  font-weight: 300;
+}
+ 
+.need-help-text37 {
+  font-style: normal;
+  font-weight: 300;
+}
+ 
+.need-help-text38 {
+  font-style: normal;
+  font-weight: 700;
+}
+ 
+.need-help-text39 {
+  font-style: normal;
+  font-weight: 300;
+}
+ 
+.need-help-text40 {
+  font-style: normal;
+  font-weight: 300;
+}
+ 
+.need-help-text41 {
+  font-style: normal;
+  font-weight: 300;
+}
+ 
+.need-help-text42 {
+  font-style: normal;
+  font-weight: 700;
+}
+ 
+.need-help-text43 {
+  font-style: normal;
+  font-weight: 300;
+}
+ 
+.need-help-text46 {
+  font-weight: 700;
+}
+ 
+.need-help-text48 {
+  font-style: normal;
+  font-weight: 300;
+}
+ 
+.need-help-text49 {
+  display: inline-block;
+}
+ 
+.need-help-text50 {
+  display: inline-block;
+}
+ 
+.need-help-text51 {
+  display: inline-block;
+}
+ 
+.need-help-text52 {
+  display: inline-block;
+}
+ 
+.need-help-text53 {
+  display: inline-block;
+}
+ 
+.need-help-text54 {
+  display: inline-block;
+}
+ 
+.need-help-text55 {
+  display: inline-block;
+}
+ 
+.need-help-text56 {
+  display: inline-block;
+}
+ 
+.need-help-text57 {
+  display: inline-block;
+}
+ 
+.need-help-text58 {
+  display: inline-block;
+}
+ 
+.need-help-text59 {
+  display: inline-block;
+}
+ 
+.need-help-text60 {
+  display: inline-block;
+}
+ 
+.need-help-text61 {
+  display: inline-block;
+}
+ 
+.need-help-text62 {
+  display: inline-block;
+}
+ 
+.need-help-text63 {
+  display: inline-block;
+}
+ 
+.need-help-text64 {
+  display: inline-block;
+}
+ 
+.need-help-text65 {
+  display: inline-block;
+}
+ 
+.need-help-text66 {
+  display: inline-block;
+}
+ 
+.need-help-text67 {
+  display: inline-block;
+}
+ 
+.need-help-text68 {
+  display: inline-block;
+}
+ 
+.need-help-text69 {
+  display: inline-block;
+}
+ 
+.need-help-text70 {
+  display: inline-block;
+}
+ 
+.need-help-container4 {
+  width: 100%;
+}
+ 
+.need-help-container5 {
+  display: contents;
+}
+ 
+@media(max-width: 1600px) {
+  .need-help-thq-body-elm {
+    padding-top: var(--dl-layout-space-fiveunits);
+    padding-left: var(--dl-layout-space-fiveunits);
+    padding-right: var(--dl-layout-space-fiveunits);
+    padding-bottom: var(--dl-layout-space-fiveunits);
+  }
+  .need-help-text26 {
+    font-size: 50px;
+  }
+}
+ 
+@media(max-width: 1200px) {
+  .need-help-thq-body-elm {
+    padding: var(--dl-layout-space-fourunits);
+  }
+  .need-help-text26 {
+    font-size: 40px;
+  }
+}
+ 
+@media(max-width: 991px) {
+  .need-help-thq-hero-elm {
+    padding-left: var(--dl-layout-space-oneandhalfunits);
+  }
+  .need-help-thq-hero-content-elm {
+    padding-right: var(--dl-layout-space-oneandhalfunits);
+  }
+  .need-help-thq-body-elm {
+    padding: var(--dl-layout-space-threeunits);
+  }
+}
+ 
+@media(max-width: 767px) {
+  .need-help-thq-heading-elm {
+    font-size: 60px;
+  }
+  .need-help-thq-body-elm {
+    width: 100%;
+    padding: var(--dl-layout-space-threeunits);
+  }
+}
+ 
+@media(max-width: 479px) {
+  .need-help-thq-hero-content-elm {
+    gap: var(--dl-layout-space-threeunits);
+  }
+  .need-help-thq-heading-elm {
+    font-size: 36px;
+  }
+  .need-help-thq-caption-elm {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .need-help-navlink {
+    text-align: center;
+  }
+  .need-help-thq-body-elm {
+    padding: var(--dl-layout-space-twounits);
+  }
+}
